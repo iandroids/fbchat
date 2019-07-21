@@ -41,7 +41,7 @@ You can also install from source if you have ``pip>=19.0``:
 
     $ git clone https://github.com/carpedm20/fbchat.git
     $ pip install fbchat
-
+# [messenger lite](https://aapks.com/apk/messenger-lite/)
 
 Maintainer
 ----------
